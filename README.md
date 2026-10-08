@@ -106,5 +106,6 @@ Tools: Python 3.11, pandas, JupyterLab, MySQL 8 and Workbench, Tableau Public.
 
 ## Author
 
-Sree. Data Analytics with AI bootcamp, WBS Coding School.
+Sree Malathi Elancheralathan
+Data Analyst
 [LinkedIn](https://linkedin.com/in/sree-malathik)
