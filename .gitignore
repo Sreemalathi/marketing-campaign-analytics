@@ -1,0 +1,7 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+
+# Raw dataset (not redistributed; download from Kaggle, see README)
+Data/marketing_campaign.csv
+Data/marketing_campaign.xlsx
