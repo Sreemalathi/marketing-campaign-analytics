@@ -2,10 +2,6 @@
 
 An end-to-end analytics project comparing six marketing campaigns on **response rate**, **spend per responder** and **customer activity**, ending in a budget recommendation. Built with Python (pandas), MySQL and Tableau Public.
 
-**Live dashboard:** [Tableau Public](https://public.tableau.com/views/Campaigns-PerformanceAnalytics/Dashboard1)
-
-![Campaign Analytics dashboard](images/dashboard.png)
-
 ## Business question
 
 How can the company improve customer campaign response while optimizing marketing spend?
@@ -19,6 +15,10 @@ The company ran six campaigns against the same customer base. This project compa
 - **No campaign wins on both.** Campaign 6's responders spend less (about 991) than the responders of Campaigns 5, 1 and 2.
 - Combined rank across response rate, spend per responder and 30-day activity: **Campaign 6 (2.33)**, Campaign 5 (3.00), Campaigns 1 and 3 (3.67), Campaigns 2 and 4 (4.00).
 - **Recommendation:** Campaign 6 is the best trade-off for extra budget, with the caveats below.
+
+**Live dashboard:** [Tableau Public](https://public.tableau.com/views/Campaigns-PerformanceAnalytics/Dashboard1)
+
+![Campaign Analytics dashboard](images/dashboard.png)
 
 ## Caveats and assumptions
 
